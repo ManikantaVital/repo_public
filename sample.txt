@@ -1,2 +1,5 @@
 first
 second
+
+third_branch_protection_rule
+feature/f1 added
